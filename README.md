@@ -16,5 +16,6 @@
 - [05-2 교차 검증과 그리드 서치](https://github.com/jxxngho/HG_MLDL/blob/main/05_2_Cross_validation_and_Grid_search.ipynb)
 - [05-3 트리의 앙상블](https://github.com/jxxngho/HG_MLDL/blob/main/05_3_Tree_Ensembles.ipynb)
 - [06-1 군집 알고리즘](https://github.com/jxxngho/HG_MLDL/blob/main/06_1_Cluster_algorithms.ipynb)
+- [06-2 k-평균](https://github.com/jxxngho/HG_MLDL/blob/main/06_2_k_means.ipynb)
   
 진행중..
