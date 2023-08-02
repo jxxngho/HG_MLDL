@@ -4,6 +4,7 @@
 
 <img src=https://github.com/jxxngho/HG_MLDL/assets/109848417/fb7b1b68-31ca-4b06-bfb2-0bda0e6fd3f3 width="250" height="250"/>
 
+## PART1 . 머신러닝
 - [01-3 마켓과 머신러닝](https://github.com/jxxngho/HG_MLDL/blob/main/01_3_Market_and_Machine_Learning.ipynb)
 - [02-1 훈련 세트와 테스트 세트](https://github.com/jxxngho/HG_MLDL/blob/main/02_1_Training_set_and_Test_set.ipynb)
 - [02-2 데이터 전처리](https://github.com/jxxngho/HG_MLDL/blob/main/02_2_Data_preprocessing.ipynb)
@@ -18,5 +19,8 @@
 - [06-1 군집 알고리즘](https://github.com/jxxngho/HG_MLDL/blob/main/06_1_Cluster_algorithms.ipynb)
 - [06-2 k-평균](https://github.com/jxxngho/HG_MLDL/blob/main/06_2_k_means.ipynb)
 - [06-3 주성분 분석](https://github.com/jxxngho/HG_MLDL/blob/main/06_3_Principal_Component_Analysis.ipynb)
+
+## PART2. 딥러닝
+
   
 진행중..
