@@ -21,6 +21,6 @@
 - [06-3 주성분 분석](https://github.com/jxxngho/HG_MLDL/blob/main/06_3_Principal_Component_Analysis.ipynb)
 
 ## PART2. 딥러닝
-
+- [07-1 인공 신경망](https://github.com/jxxngho/HG_MLDL/blob/main/07_1_Artificial_Neural_Network.ipynb)
   
 진행중..
