@@ -22,6 +22,6 @@
 
 ## PART2. 딥러닝
 - [07-1 인공 신경망](https://github.com/jxxngho/HG_MLDL/blob/main/07_1_Artificial_Neural_Network.ipynb)
-- [07-2 심층신경망](https://github.com/jxxngho/HG_MLDL/blob/main/07_2_Deep_Neural_Network.ipynb)
+- [07-2 심층 신경망](https://github.com/jxxngho/HG_MLDL/blob/main/07_2_Deep_Neural_Network.ipynb)
   
 진행중..
