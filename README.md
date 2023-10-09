@@ -23,5 +23,9 @@
 ## PART2. 딥러닝
 - [07-1 인공 신경망](https://github.com/jxxngho/HG_MLDL/blob/main/07_1_Artificial_Neural_Network.ipynb)
 - [07-2 심층 신경망](https://github.com/jxxngho/HG_MLDL/blob/main/07_2_Deep_Neural_Network.ipynb)
-  
-진행중..
+- [08-1 합성곱 신경망의 구성 요소](https://github.com/jxxngho/HG_MLDL/blob/main/08_1_Components_of_Synthetic_Neural_Networks.ipynb)
+- [08-2 합성곱 신경망을 사용한 이미지 분류](https://github.com/jxxngho/HG_MLDL/blob/main/08_2_Image_classification_using_convolutional_neural_networks.ipynb)
+- [08-3 합성곱 신경망의 시각화](https://github.com/jxxngho/HG_MLDL/blob/main/08_3_Visualization_of_Synthetic_Neural_Networks.ipynb)
+
+
+
